@@ -33,13 +33,15 @@ public class Anogram {
             for (int g = 0; g < charsMainWord.length; g++) {
                 int resultMainWord = -1;
                 int resultMinorWord = -1;
+                Integer valueMainWord = mapCharsMainWord.get(charsMainWord[g]);
+                Integer valueMinorWord = mapCharsMinorWord.get(charsMinorWord[g]);
 
-                try {
+                if (valueMainWord != null) {
                     resultMainWord = mapCharsMainWord.get(charsMainWord[g]);
-                }catch (NullPointerException ignored){}
-                try {
+                }
+                if (valueMinorWord != null) {
                     resultMinorWord = mapCharsMinorWord.get(charsMinorWord[g]);
-                }catch (NullPointerException ignored){}
+                }
 
                 if (resultMainWord != -1) {
                     resultMainWord++;
