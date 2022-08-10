@@ -1,0 +1,340 @@
+﻿{
+  "artists": [
+    {
+      "id": "nicki-minaj",
+      "name": "Nicki Minaj",
+      "facebookLink": "http://www.facebook.com/nickiminaj",
+      "twitterLink": "http://twitter.com/NICKIMINAJ",
+      "instagramLink": "http://instagram.com/nickiminaj",
+      "youtubeLink": "https://www.youtube.com/user/NickiMinajAtVEVO",
+      "spotifyLink": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh",
+      "soundCloudLink": null,
+      "homePageLink": "https://www.mypinkfriday.com/",
+      "beatPort": "https://www.beatport.com/artist/nicki-minaj/176060",
+      "songkickLink": "http://www.songkick.com/artists/1435335",
+      "bandsintownLink": "https://bandsintown.com/NickiMinaj",
+      "itunesLink": "https://itunes.apple.com/si/artist/nicki-minaj/id278464538",
+      "shazamLink": "https://www.shazam.com/artist/40748725/nicki-minaj",
+      "country": "UNITED STATES",
+      "genres": [
+        "POP"
+      ],
+      "futureEvents": [],
+      "similarArtists": [
+        "fergie; Fergie",
+        "beyonce; Beyonce",
+        "ciara; Ciara",
+        "t-pain; T-Pain",
+        "jhene-aiko; Jhene Aiko"
+      ],
+      "rank": "23"
+    },
+    {
+      "id": "demi-lovato",
+      "name": "Demi Lovato",
+      "facebookLink": "http://www.facebook.com/DemiLovato",
+      "twitterLink": "http://twitter.com/ddlovato",
+      "instagramLink": "http://instagram.com/ddlovato",
+      "youtubeLink": "http://www.youtube.com/channel/UCnyB9MYKRkSFK3IIB32CoVw",
+      "spotifyLink": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp",
+      "soundCloudLink": "https://soundcloud.com/ddlovato",
+      "homePageLink": "http://demilovato.com/",
+      "beatPort": "https://www.beatport.com/artist/demi-lovato/331577",
+      "songkickLink": "http://www.songkick.com/artists/976211",
+      "bandsintownLink": "https://bandsintown.com/DemiLovato",
+      "itunesLink": "https://itunes.apple.com/si/artist/demi-lovato/id280215821",
+      "shazamLink": "https://www.shazam.com/artist/40287372/demi-lovato",
+      "country": "UNITED STATES",
+      "genres": [
+        "POP"
+      ],
+      "futureEvents": [
+        "Demi Lovato with DJ Khaled at Bridgestone Arena ; Bridgestone Arena - Nashville, United States; 28; MARCH",
+        "Demi Lovato with DJ Khaled at AmericanAirlines Arena ; American Airlines Arena - Miami, United States; 30; MARCH",
+        "Demi Lovato with DJ Khaled at Amalie Arena ; Amalie Arena - Tampa, United States; 31; MARCH"
+      ],
+      "similarArtists": [
+        "justin-bieber; Justin Bieber",
+        "kelly-clarkson; Kelly Clarkson",
+        "miley-cyrus; Miley Cyrus",
+        "nick-jonas; Nick Jonas",
+        "selena-gomez; Selena Gomez"
+      ],
+      "rank": "233"
+    },
+    {
+      "id": "lady-gaga",
+      "name": "Lady Gaga",
+      "facebookLink": "http://www.facebook.com/ladygaga",
+      "twitterLink": "http://twitter.com/ladygaga",
+      "instagramLink": "http://instagram.com/ladygaga",
+      "youtubeLink": "http://www.youtube.com/channel/UC07Kxew-cMIaykMOkzqHtBQ",
+      "spotifyLink": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms",
+      "soundCloudLink": "https://soundcloud.com/ladygaga",
+      "homePageLink": "https://www.ladygaga.com/",
+      "beatPort": "https://www.beatport.com/artist/lady-gaga/140979",
+      "songkickLink": "http://www.songkick.com/artists/974908",
+      "bandsintownLink": "https://bandsintown.com/LadyGaga",
+      "itunesLink": "https://itunes.apple.com/si/artist/lady-gaga/id277293880",
+      "shazamLink": "https://www.shazam.com/artist/40343131/lady-gaga",
+      "country": "UNITED STATES",
+      "genres": [
+        "POP"
+      ],
+      "futureEvents": [],
+      "similarArtists": [
+        "kesha; Kesha",
+        "britney-spears; Britney Spears",
+        "pnk; P!nk",
+        "katy-perry; Katy Perry",
+        "carly-rae-jepsen; Carly Rae Jepsen"
+      ],
+      "rank": "123"
+    },
+    {
+      "id": "bruno-mars",
+      "name": "Bruno Mars",
+      "facebookLink": "http://www.facebook.com/brunomars",
+      "twitterLink": "http://twitter.com/brunomars",
+      "instagramLink": "http://instagram.com/brunomars",
+      "youtubeLink": "http://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA",
+      "spotifyLink": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C",
+      "soundCloudLink": null,
+      "homePageLink": "http://www.brunomars.com/",
+      "beatPort": "https://www.beatport.com/artist/bruno-mars/160803",
+      "songkickLink": "http://www.songkick.com/artists/941964",
+      "bandsintownLink": "https://bandsintown.com/BrunoMars",
+      "itunesLink": "https://itunes.apple.com/si/artist/bruno-mars/id278873078",
+      "shazamLink": "https://www.shazam.com/artist/40767324/bruno-mars",
+      "country": "UNITED STATES",
+      "genres": [
+        "POP"
+      ],
+      "futureEvents": [
+        "Bruno Mars at Perth Arena ; Perth Arena - Perth, Australia; 28; MARCH",
+        "Bruno Mars at Saitama Super Arena; Perth Arena - Perth, Australia; 29; MARCH"
+      ],
+      "similarArtists": [
+        "usher; Usher",
+        "ariana-grande; Ariana Grande",
+        "maroon-5; Maroon 5",
+        "one-direction; One Direction",
+        "jason-derulo; Jason Derulo"
+      ]
+    },
+    {
+      "id": "taylor-swift",
+      "name": "Taylor Swift",
+      "facebookLink": "http://www.facebook.com/TaylorSwift",
+      "twitterLink": "http://twitter.com/taylorswift13",
+      "instagramLink": "http://instagram.com/taylorswift",
+      "youtubeLink": "http://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg",
+      "spotifyLink": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+      "soundCloudLink": "https://soundcloud.com/taylorswiftofficial",
+      "homePageLink": "http://www.taylorswift.com/",
+      "beatPort": "https://www.beatport.com/artist/taylor-swift/346932",
+      "songkickLink": "http://www.songkick.com/artists/217815",
+      "bandsintownLink": "https://bandsintown.com/TaylorSwift",
+      "itunesLink": "https://itunes.apple.com/si/artist/taylor-swift/id159260351",
+      "shazamLink": "https://www.shazam.com/artist/40170654/taylor-swift",
+      "country": "UNITED STATES",
+      "genres": [
+        "POP"
+      ],
+      "futureEvents": [
+        "Taylor Swift at University of Phoenix Stadium; University of Phoenix Stadium - Glendale, United States; 8; MAY",
+        "Taylor Swift at Levi's Stadium; Levi's Stadium - Santa Clara, United States; 11; MAY"
+      ],
+      "similarArtists": [
+        "ariana-grande; Ariana Grande",
+        "ed-sheeran; Ed Sheeran",
+        "justin-bieber; Justin Bieber",
+        "kelly-clarkson; Kelly Clarkson",
+        "katy-perry; Katy Perry"
+      ],
+      "rank": "555"
+    },
+    {
+      "id": "wiz-khalifa",
+      "name": "Wiz Khalifa",
+      "facebookLink": "http://www.facebook.com/wizkhalifa",
+      "twitterLink": "http://twitter.com/wizkhalifa",
+      "instagramLink": "http://instagram.com/wizkhalifa",
+      "youtubeLink": "http://www.youtube.com/channel/UCVp3nfGRxmMadNDuVbJSk8A",
+      "spotifyLink": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop",
+      "soundCloudLink": "https://soundcloud.com/wizkhalifa",
+      "homePageLink": "http://www.wizkhalifa.com/",
+      "beatPort": "https://www.beatport.com/artist/wiz-khalifa/161113",
+      "songkickLink": "http://www.songkick.com/artists/316828",
+      "bandsintownLink": "https://bandsintown.com/WizKhalifa",
+      "itunesLink": "https://itunes.apple.com/si/artist/wiz-khalifa/id201714418",
+      "shazamLink": "https://www.shazam.com/artist/40188763/wiz-khalifa",
+      "country": "UNITED STATES",
+      "genres": [
+        "HIP HOP / R&B",
+        "HIP HOP"
+      ],
+      "futureEvents": [
+        "Aerodrome Festival in the Sky (28.06. - 30.06.2018); Letiště Panenský Týnec - Panenský Týnec, Czech Republic; 28; JUNE"
+      ],
+      "similarArtists": [
+        "ti; T.I.",
+        "french-montana; French Montana",
+        "snoop-dogg; Snoop Dogg",
+        "tyga; Tyga",
+        "bob; B.o.B"
+      ],
+      "rank": "asd"
+    },
+    {
+      "id": "rihanna",
+      "name": "Rihanna",
+      "facebookLink": "http://www.facebook.com/rihanna",
+      "twitterLink": "http://twitter.com/rihanna",
+      "instagramLink": "http://instagram.com/badgalriri",
+      "youtubeLink": "http://www.youtube.com/channel/UC2xskkQVFEpLcGFnNSLQY0A",
+      "spotifyLink": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H",
+      "soundCloudLink": "https://soundcloud.com/rihanna",
+      "homePageLink": "http://www.rihannanow.com/",
+      "beatPort": "https://www.beatport.com/artist/rihanna/67424",
+      "songkickLink": "http://www.songkick.com/artists/139648",
+      "bandsintownLink": "https://bandsintown.com/rihanna",
+      "itunesLink": "https://itunes.apple.com/si/artist/rihanna/id63346553",
+      "shazamLink": "https://www.shazam.com/artist/40095634/rihanna",
+      "country": "BARBADOS",
+      "genres": [
+        "POP"
+      ],
+      "futureEvents": [
+        "BEYONCE VS. RIHANNA TRIBUTE PARTY  at Black Cat, Washington; Black Cat Washington - Washington, United States; 30; MARCH"
+      ],
+      "similarArtists": [
+        "usher; Usher",
+        "britney-spears; Britney Spears",
+        "miley-cyrus; Miley Cyrus",
+        "beyonce; Beyonce",
+        "ciara; Ciara"
+      ],
+      "rank": "123"
+    },
+    {
+      "id": "justin-bieber",
+      "name": "Justin Bieber",
+      "facebookLink": "http://www.facebook.com/JustinBieber",
+      "twitterLink": "http://twitter.com/justinbieber",
+      "instagramLink": "http://instagram.com/justinbieber",
+      "youtubeLink": "http://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A",
+      "spotifyLink": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s",
+      "soundCloudLink": "https://soundcloud.com/justinbieber",
+      "homePageLink": "http://www.justinbiebermusic.com/",
+      "beatPort": "https://www.beatport.com/artist/justin-bieber/267677",
+      "songkickLink": "http://www.songkick.com/artists/2596951",
+      "bandsintownLink": "https://bandsintown.com/JustinBieber",
+      "itunesLink": "https://itunes.apple.com/si/artist/justin-bieber/id320569549",
+      "shazamLink": "https://www.shazam.com/artist/40543550/justin-bieber",
+      "country": "CANADA",
+      "genres": [
+        "POP"
+      ],
+      "futureEvents": [],
+      "similarArtists": [
+        "usher; Usher",
+        "ariana-grande; Ariana Grande",
+        "miley-cyrus; Miley Cyrus",
+        "one-direction; One Direction",
+        "jason-derulo; Jason Derulo"
+      ],
+      "rank": "123"
+    },
+    {
+      "id": "daddy-yankee",
+      "name": "Daddy Yankee",
+      "facebookLink": "https://www.facebook.com/daddyyankee",
+      "twitterLink": "https://twitter.com/daddy_yankee",
+      "instagramLink": "https://www.instagram.com/daddyyankee",
+      "youtubeLink": "https://www.youtube.com/user/DaddyYankeeOFFTV",
+      "spotifyLink": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m",
+      "soundCloudLink": null,
+      "homePageLink": "http://www.daddyyankee.com",
+      "beatPort": "https://www.beatport.com/artist/daddy-yankee/190446",
+      "songkickLink": "https://www.songkick.com/artists/390360-daddy-yankee",
+      "bandsintownLink": "http://www.bandsintown.com/DaddyYankee",
+      "itunesLink": "https://itunes.apple.com/us/artist/daddy-yankee/id25514958",
+      "shazamLink": "https://www.shazam.com/artist/10115824/daddy-yankee",
+      "country": "PUERTO RICO",
+      "genres": [
+        "LATIN",
+        "REGGAETON"
+      ],
+      "futureEvents": [],
+      "similarArtists": [
+        "arcángel; Arcángel",
+        "tego-calderon; Tego Calderon",
+        "wisin; Wisin",
+        "yandel; Yandel",
+        "don-omar; Don Omar"
+      ],
+      "rank": "123"
+    },
+    {
+      "id": "miley-cyrus",
+      "name": "Miley Cyrus",
+      "facebookLink": "http://www.facebook.com/MileyCyrus",
+      "twitterLink": "http://twitter.com/MIleyCyrus",
+      "instagramLink": "http://instagram.com/mileycyrus",
+      "youtubeLink": "http://www.youtube.com/channel/UCdI8evszfZvyAl2UVCypkTA",
+      "spotifyLink": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6",
+      "soundCloudLink": "https://soundcloud.com/mileycyrus",
+      "homePageLink": "http://mileycyrus.com/",
+      "beatPort": "https://www.beatport.com/artist/miley-cyrus/230158",
+      "songkickLink": "http://www.songkick.com/artists/365382",
+      "bandsintownLink": "https://bandsintown.com/MileyCyrus",
+      "itunesLink": "https://itunes.apple.com/si/artist/miley-cyrus/id137057909",
+      "shazamLink": "https://www.shazam.com/artist/40210536/miley-cyrus",
+      "country": "UNITED STATES",
+      "genres": [
+        "POP"
+      ],
+      "futureEvents": [],
+      "similarArtists": [
+        "britney-spears; Britney Spears",
+        "justin-bieber; Justin Bieber",
+        "kelly-clarkson; Kelly Clarkson",
+        "fergie; Fergie",
+        "katy-perry; Katy Perry"
+      ],
+      "rank": "-123"
+    },
+    {
+      "id": "ed-sheeran",
+      "name": "Ed Sheeran",
+      "facebookLink": "http://www.facebook.com/EdSheeranMusic",
+      "twitterLink": "http://twitter.com/edsheeran",
+      "instagramLink": "http://instagram.com/teddysphotos",
+      "youtubeLink": "http://www.youtube.com/channel/UC0C-w0YjGpqDXGB8IHb662A",
+      "spotifyLink": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V",
+      "soundCloudLink": "https://soundcloud.com/edsheeran",
+      "homePageLink": "http://www.edsheeran.com/",
+      "beatPort": "https://www.beatport.com/artist/ed-sheeran/86560",
+      "songkickLink": "http://www.songkick.com/artists/2083334",
+      "bandsintownLink": "https://bandsintown.com/edsheeran",
+      "itunesLink": "https://itunes.apple.com/si/artist/ed-sheeran/id183313439",
+      "shazamLink": "https://www.shazam.com/artist/40769350/ed-sheeran",
+      "country": "UNITED KINGDOM",
+      "genres": [
+        "POP"
+      ],
+      "futureEvents": [
+        "Ed Sheeran at Forsyth Barr Stadium ; Forsyth Barr Stadium - Dunedin, New Zealand; 29; MARCH"
+      ],
+      "similarArtists": [
+        "birdy; Birdy",
+        "shawn-mendes; Shawn Mendes",
+        "one-direction; One Direction",
+        "onerepublic; OneRepublic",
+        "jason-mraz; Jason Mraz"
+      ],
+      "rank": "123"
+    }
+  ]
+}
