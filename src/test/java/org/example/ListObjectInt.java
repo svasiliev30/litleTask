@@ -5,12 +5,13 @@ import java.util.*;
 public class ListObjectInt {
     static List<IntObjects> listIntObjects = new ArrayList<>();
     static Map<Integer, IntObjects> mapCashIntObjects = new HashMap<>();
+    final static int CAPACITY_OBJECTS = 20;
 
     public static void InitializationIntObjects() {
         int a = 0;
         int b = 0;
         int c = 0;
-        for (int i = 0; i < 4; i++) {
+        for (int i = 0; i < CAPACITY_OBJECTS; i++) {
             a = (int) (Math.random() * 100);
             b = (int) (Math.random() * 100);
             c = (int) (Math.random() * 100);
@@ -20,12 +21,8 @@ public class ListObjectInt {
     }
 
     public static void main(String[] args) {
-        int capacityIntObjects = 3;
         InitializationIntObjects();
-        listIntObjects.stream()
-                .forEach(s -> System.out.println("Первое число - " + s.a
-                        + ", Второе число - " + s.b
-                        + ", Третие число - " + s.c));
+        System.out.println(" Всего - " + CAPACITY_OBJECTS + " объектов.");
 
         List<Integer> listSum = new ArrayList<>();
         listIntObjects.stream()
@@ -38,24 +35,42 @@ public class ListObjectInt {
 
         int middleResult = totalAmount.get() / listIntObjects.size();
 
-        List<IntObjects> firstGroupLessMiddle = new ArrayList<>();
-        List<IntObjects> firstGroupHighMiddle = new ArrayList<>();
+        Map<IntObjects, Integer> firstGroupLessMiddle = new HashMap<>();
+        Map<IntObjects, Integer> firstGroupHighMiddle = new HashMap<>();
 
         for (int z = 0; z < listSum.size(); z++) {
             int result = listSum.get(z);
+            Integer sumObjects = null;
             if (result < middleResult) {
-                firstGroupLessMiddle.add(mapCashIntObjects.get(z));
+                IntObjects intObjects = mapCashIntObjects.get(z);
+                sumObjects = intObjects.a + intObjects.b + intObjects.c;
+
+                firstGroupLessMiddle.put(intObjects, sumObjects);
             } else {
-                firstGroupHighMiddle.add(mapCashIntObjects.get(z));
+                IntObjects intObjects = mapCashIntObjects.get(z);
+                sumObjects = intObjects.a + intObjects.b + intObjects.c;
+
+                firstGroupHighMiddle.put(intObjects, sumObjects);
             }
         }
-        System.out.println("---------------------------------");
-        firstGroupLessMiddle.stream().forEach(s -> System.out.println("Первая группа (Первое число - " + s.a
-                + ", Второе число - " + s.b
-                + ", Третие число - " + s.c));
-        System.out.println("---------------------------------");
-        firstGroupHighMiddle.stream().forEach(s -> System.out.println("Вторая группа группа (Первое число - " + s.a
-                + ", Второе число - " + s.b
-                + ", Третие число - " + s.c));
+        System.out.println(
+                " Первая группа - Сумма объектов меньше среднего значения сумм всех объектов." +
+                "\n Вторая группа - Сумма объектов больше среднего значения сумм всех объектов.");
+
+        System.out.println("---------------------------------" +
+                "\n Первая группа - " + firstGroupLessMiddle.size() + " объектов." +
+                "\n---------------------------------" );
+        firstGroupLessMiddle.entrySet().stream().forEach(key ->{
+            System.out.println("Первое число - " + key.getKey().a
+                + ", Второе число - " + key.getKey().b
+                + ", Третие число - " + key.getKey().c + ". " + key.getValue() + " < " + middleResult);});
+
+        System.out.println("---------------------------------" +
+                "\n Вторая группа - " + firstGroupHighMiddle.size() + " объектов." +
+                "\n---------------------------------" );
+            firstGroupHighMiddle.entrySet().stream().forEach(key ->{
+                System.out.println("Первое число - " + key.getKey().a
+                        + ", Второе число - " + key.getKey().b
+                        + ", Третие число - " + key.getKey().c + ". " + key.getValue() + " >= " + middleResult);});
     }
 }
